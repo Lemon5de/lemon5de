@@ -1,5 +1,5 @@
 ### Hi there 👋
-### [This is a magic 8 ball.Go ahead, ask your desired question](https://lemon5de.github.io/lemon5de/)
+### [This is a magic 8 ball.Try it out!!](https://lemon5de.github.io/lemon5de/)
 <!--
 **Lemon5de/lemon5de** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
